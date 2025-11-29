@@ -1,5 +1,6 @@
 # CODSOFT 
 Python Internship
+
 This repository contains my 3 tasks for the CodSoft Python internship.
 
 Task 1: To-Do List
